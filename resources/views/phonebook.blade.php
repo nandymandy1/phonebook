@@ -12,7 +12,7 @@
       <div class="container">
         <!--Router View-->
         <router-view></router-view>
-        
+        <!--Router View-->
       </div>
       <!--Footer component from the vue-->
       <Myfooter></Myfooter>
